@@ -1,5 +1,5 @@
 # Particle System Music Beat Detection Vortex
 
-For educational purpose, not for commercial purpose.
+For educational purposes, not for commercial purposes.
 
 Particle system with polygon collision detection, the size of the vortex changes according to music beat.
